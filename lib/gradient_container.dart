@@ -22,7 +22,6 @@ class GradientContainer extends StatelessWidget {
       child: const Center(
         child: DiceRoller(),
       ),
-      // child: const Center(child: StyledText(outputText: "Teste de Props")),
     );
   }
 }
